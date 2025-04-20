@@ -1,3 +1,12 @@
-# F12 Test Project
+# F12 MCP 테스트 프로젝트
 
-This is a test project for F12. 
+이 프로젝트는 F12 MCP 서버의 기능을 테스트하기 위한 저장소입니다.
+
+## 목적
+- MCP 서버의 기본 기능 테스트
+- GitHub 연동 테스트
+- API 호출 테스트
+
+## 테스트 환경
+- F12 MCP 서버
+- GitHub 저장소 연동 
